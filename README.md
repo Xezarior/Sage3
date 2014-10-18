@@ -8,7 +8,7 @@ Wer Admin-Rechte haben will, soll sich einen Github-Account erstellen und mir di
 An die Admins,
 es gelten (eigentlich selbstverständliche) Konventionen:
 - Dieses Repository dient ausschließlich der Entwicklung des Regelwerks von Sage3.
-  Alles anderen Uploads, egal ob's mit Sage3 etwas oder nichts zu tun hat, wird entfernt und als Missbrauch dieses Repositorys beurteilt!
+  Alles anderen Uploads, egal ob sie etwas oder nichts mit Sage3 zu tun hat, werden entfernt und als Missbrauch dieses Repositorys beurteilt!
 
 - Dieses Repository ist öffentlich. Dateien, die Fremde nicht sehen sollen, könnt ihr hier also nicht hochladen.
 
